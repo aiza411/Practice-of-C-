@@ -1,6 +1,6 @@
 ﻿namespace Practice_Day1
 {
-    internal class Program
+    internal class Day1
     {
         static void Main(string[] args)
         {
